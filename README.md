@@ -54,7 +54,7 @@ DELETE /api/categories/:id: Delete a category by ID.
 Similar routes are available for products and tags.
 
 Walk through video of application: 
-[Uploading Untitled_ Sep 14, 2023 3_18 PM.webm…]()
+[Untitled_ Sep 14, 2023 3_18 PM.webm](https://github.com/Pokepoison/e-commerce-update/assets/134848930/c4e2bd5e-1c65-4317-98fa-c152a5b3cde9)
 
 
 ## License
